@@ -2,6 +2,9 @@
 
 This web application predicts whether a breast mass is benign or malignant based on input measurements. It utilizes machine learning algorithms trained on a dataset of breast cancer cases.
 
+![image](https://github.com/Hitesh2498/Breast-Cancer-Classification-web-APP/assets/96277290/ccad82cb-0fc3-4d7c-857e-5fd5ee3c3158)
+
+
 ## Features
 
 - **Predictions**: Provides predictions for whether a breast mass is benign or malignant.
